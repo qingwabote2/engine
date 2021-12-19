@@ -179,6 +179,12 @@
             "native": "USE_DRAGONBONES",
 	        "wechatPlugin": true,
             "category": "2d"
+        },
+        "hdlplayer": {
+            "default": ["hdlplayer"],
+            "label": "hdlplayer",
+            "description": "hdlplayer",
+            "native": "USE_HDLPLAYER"
         }
     },
     "categories": {

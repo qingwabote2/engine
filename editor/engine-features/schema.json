@@ -172,6 +172,9 @@
                 },
                 "webview": {
                     "$ref": "#/definitions/BaseItem"
+                },
+                "hdlplayer": {
+                    "$ref": "#/definitions/BaseItem"
                 }
             },
             "type": "object"
@@ -261,6 +264,9 @@
                     "$ref": "#/definitions/Item"
                 },
                 "webview": {
+                    "$ref": "#/definitions/Item"
+                },
+                "hdlplayer": {
                     "$ref": "#/definitions/Item"
                 }
             },

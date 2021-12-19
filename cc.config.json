@@ -26,7 +26,8 @@
         "tween": { "modules": [ "tween" ] },
         "tiled-map": { "modules": [ "tiled-map" ] },
         "spine": { "modules": [ "spine" ] },
-        "dragon-bones": { "modules": [ "dragon-bones" ] }
+        "dragon-bones": { "modules": [ "dragon-bones" ] },
+        "hdlplayer": { "modules": [ "hdlplayer" ] }
     },
     "moduleOverrides": [
         {
@@ -50,7 +51,8 @@
                 "cocos/core/math/vec3.ts": "cocos/core/math/vec3.jsb.ts",
                 "cocos/core/math/quat.ts": "cocos/core/math/quat.jsb.ts",
                 "cocos/core/math/mat3.ts": "cocos/core/math/mat3.jsb.ts",
-                "cocos/core/math/mat4.ts": "cocos/core/math/mat4.jsb.ts"
+                "cocos/core/math/mat4.ts": "cocos/core/math/mat4.jsb.ts",
+                "cocos/hdlplayer/index.ts": "cocos/hdlplayer/index.jsb.ts"
             }
         },
         {
